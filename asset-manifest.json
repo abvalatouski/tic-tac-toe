@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/static/css/main.08e75d49.css",
+    "main.js": "/tic-tac-toe/static/js/main.aacdaf18.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/tic-tac-toe/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.08e75d49.css.map": "/tic-tac-toe/static/css/main.08e75d49.css.map",
+    "main.aacdaf18.js.map": "/tic-tac-toe/static/js/main.aacdaf18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e75d49.css",
+    "static/js/main.aacdaf18.js"
+  ]
+}
