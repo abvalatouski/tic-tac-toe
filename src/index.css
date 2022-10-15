@@ -1,0 +1,16 @@
+@font-face {
+  src: url('font/Montserrat/Montserrat-VariableFont_wght.ttf');
+  font-family: 'Montserrat';
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+button:focus {
+  outline: none;
+}
